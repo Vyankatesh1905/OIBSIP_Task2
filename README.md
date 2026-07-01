@@ -15,7 +15,6 @@ A modern and responsive **Personal Portfolio Website** built using **HTML, CSS, 
 * Education section
 * Certifications gallery
 * Contact information
-* Glassmorphism UI
 * Mobile-friendly layout
 
 ##  Tech Stack
@@ -23,8 +22,7 @@ A modern and responsive **Personal Portfolio Website** built using **HTML, CSS, 
 * HTML5
 * CSS3
 * JavaScript
-* Font Awesome
-* Google Fonts (Inter)
+
 
 ##  Project Structure
 
